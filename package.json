@@ -24,7 +24,7 @@
     "react-web3-provider": "^1.1.2",
     "styled-components": "^5.3.10",
     "web-vitals": "^2.1.4",
-    "web3": "^1.10.0"
+    "web3": "^4.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
